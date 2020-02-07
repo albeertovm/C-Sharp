@@ -1,0 +1,11 @@
+C:\Users\AValv\Source\Repos\tarea2.cs\tarea2.cs\obj\Debug\netcoreapp3.1\tarea2.cs.csprojAssemblyReference.cache
+C:\Users\AValv\Source\Repos\tarea2.cs\tarea2.cs\obj\Debug\netcoreapp3.1\tarea2.cs.AssemblyInfoInputs.cache
+C:\Users\AValv\Source\Repos\tarea2.cs\tarea2.cs\obj\Debug\netcoreapp3.1\tarea2.cs.AssemblyInfo.cs
+C:\Users\AValv\Source\Repos\tarea2.cs\tarea2.cs\bin\Debug\netcoreapp3.1\tarea2.cs.exe
+C:\Users\AValv\Source\Repos\tarea2.cs\tarea2.cs\bin\Debug\netcoreapp3.1\tarea2.cs.deps.json
+C:\Users\AValv\Source\Repos\tarea2.cs\tarea2.cs\bin\Debug\netcoreapp3.1\tarea2.cs.runtimeconfig.json
+C:\Users\AValv\Source\Repos\tarea2.cs\tarea2.cs\bin\Debug\netcoreapp3.1\tarea2.cs.runtimeconfig.dev.json
+C:\Users\AValv\Source\Repos\tarea2.cs\tarea2.cs\bin\Debug\netcoreapp3.1\tarea2.cs.dll
+C:\Users\AValv\Source\Repos\tarea2.cs\tarea2.cs\bin\Debug\netcoreapp3.1\tarea2.cs.pdb
+C:\Users\AValv\Source\Repos\tarea2.cs\tarea2.cs\obj\Debug\netcoreapp3.1\tarea2.cs.dll
+C:\Users\AValv\Source\Repos\tarea2.cs\tarea2.cs\obj\Debug\netcoreapp3.1\tarea2.cs.pdb
