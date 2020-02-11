@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\becarioMart\becarioMart\bin\Debug\netcoreapp3.1\becarioMart.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\becarioMart\becarioMart\bin\Debug\netcoreapp3.1\becarioMart.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\becarioMart\becarioMart\bin\Debug\netcoreapp3.1\becarioMart.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\becarioMart\becarioMart\bin\Debug\netcoreapp3.1\becarioMart.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\becarioMart\becarioMart\bin\Debug\netcoreapp3.1\becarioMart.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\becarioMart\becarioMart\bin\Debug\netcoreapp3.1\becarioMart.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\becarioMart\becarioMart\obj\Debug\netcoreapp3.1\becarioMart.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\becarioMart\becarioMart\obj\Debug\netcoreapp3.1\becarioMart.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\becarioMart\becarioMart\obj\Debug\netcoreapp3.1\becarioMart.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\becarioMart\becarioMart\obj\Debug\netcoreapp3.1\becarioMart.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\becarioMart\becarioMart\obj\Debug\netcoreapp3.1\becarioMart.pdb

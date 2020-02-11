@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraMatrices\calculadoraMatrices\obj\Debug\netcoreapp3.1\calculadoraMatrices.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraMatrices\calculadoraMatrices\obj\Debug\netcoreapp3.1\calculadoraMatrices.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraMatrices\calculadoraMatrices\obj\Debug\netcoreapp3.1\calculadoraMatrices.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraMatrices\calculadoraMatrices\bin\Debug\netcoreapp3.1\calculadoraMatrices.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraMatrices\calculadoraMatrices\bin\Debug\netcoreapp3.1\calculadoraMatrices.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraMatrices\calculadoraMatrices\bin\Debug\netcoreapp3.1\calculadoraMatrices.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraMatrices\calculadoraMatrices\bin\Debug\netcoreapp3.1\calculadoraMatrices.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraMatrices\calculadoraMatrices\bin\Debug\netcoreapp3.1\calculadoraMatrices.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraMatrices\calculadoraMatrices\bin\Debug\netcoreapp3.1\calculadoraMatrices.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraMatrices\calculadoraMatrices\obj\Debug\netcoreapp3.1\calculadoraMatrices.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraMatrices\calculadoraMatrices\obj\Debug\netcoreapp3.1\calculadoraMatrices.pdb

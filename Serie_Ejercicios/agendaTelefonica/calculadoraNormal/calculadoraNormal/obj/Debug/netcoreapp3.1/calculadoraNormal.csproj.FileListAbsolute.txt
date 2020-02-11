@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraNormal\calculadoraNormal\obj\Debug\netcoreapp3.1\calculadoraNormal.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraNormal\calculadoraNormal\obj\Debug\netcoreapp3.1\calculadoraNormal.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraNormal\calculadoraNormal\obj\Debug\netcoreapp3.1\calculadoraNormal.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraNormal\calculadoraNormal\bin\Debug\netcoreapp3.1\calculadoraNormal.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraNormal\calculadoraNormal\bin\Debug\netcoreapp3.1\calculadoraNormal.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraNormal\calculadoraNormal\bin\Debug\netcoreapp3.1\calculadoraNormal.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraNormal\calculadoraNormal\bin\Debug\netcoreapp3.1\calculadoraNormal.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraNormal\calculadoraNormal\bin\Debug\netcoreapp3.1\calculadoraNormal.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraNormal\calculadoraNormal\bin\Debug\netcoreapp3.1\calculadoraNormal.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraNormal\calculadoraNormal\obj\Debug\netcoreapp3.1\calculadoraNormal.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\calculadoraNormal\calculadoraNormal\obj\Debug\netcoreapp3.1\calculadoraNormal.pdb
