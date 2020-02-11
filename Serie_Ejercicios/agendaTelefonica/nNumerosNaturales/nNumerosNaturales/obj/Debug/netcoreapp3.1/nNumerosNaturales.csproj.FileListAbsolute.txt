@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\nNumerosNaturales\nNumerosNaturales\bin\Debug\netcoreapp3.1\nNumerosNaturales.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\nNumerosNaturales\nNumerosNaturales\bin\Debug\netcoreapp3.1\nNumerosNaturales.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\nNumerosNaturales\nNumerosNaturales\bin\Debug\netcoreapp3.1\nNumerosNaturales.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\nNumerosNaturales\nNumerosNaturales\bin\Debug\netcoreapp3.1\nNumerosNaturales.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\nNumerosNaturales\nNumerosNaturales\bin\Debug\netcoreapp3.1\nNumerosNaturales.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\nNumerosNaturales\nNumerosNaturales\bin\Debug\netcoreapp3.1\nNumerosNaturales.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\nNumerosNaturales\nNumerosNaturales\obj\Debug\netcoreapp3.1\nNumerosNaturales.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\nNumerosNaturales\nNumerosNaturales\obj\Debug\netcoreapp3.1\nNumerosNaturales.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\nNumerosNaturales\nNumerosNaturales\obj\Debug\netcoreapp3.1\nNumerosNaturales.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\nNumerosNaturales\nNumerosNaturales\obj\Debug\netcoreapp3.1\nNumerosNaturales.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\nNumerosNaturales\nNumerosNaturales\obj\Debug\netcoreapp3.1\nNumerosNaturales.pdb

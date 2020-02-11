@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\multiploClap\multiploClap\bin\Debug\netcoreapp3.1\multiploClap.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\multiploClap\multiploClap\bin\Debug\netcoreapp3.1\multiploClap.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\multiploClap\multiploClap\bin\Debug\netcoreapp3.1\multiploClap.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\multiploClap\multiploClap\bin\Debug\netcoreapp3.1\multiploClap.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\multiploClap\multiploClap\bin\Debug\netcoreapp3.1\multiploClap.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\multiploClap\multiploClap\bin\Debug\netcoreapp3.1\multiploClap.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\multiploClap\multiploClap\obj\Debug\netcoreapp3.1\multiploClap.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\multiploClap\multiploClap\obj\Debug\netcoreapp3.1\multiploClap.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\multiploClap\multiploClap\obj\Debug\netcoreapp3.1\multiploClap.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\multiploClap\multiploClap\obj\Debug\netcoreapp3.1\multiploClap.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\multiploClap\multiploClap\obj\Debug\netcoreapp3.1\multiploClap.csprojAssemblyReference.cache
