@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\agendaTelefonica\agendaTelefonica\bin\Debug\netcoreapp3.1\agendaTelefonica.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\agendaTelefonica\agendaTelefonica\bin\Debug\netcoreapp3.1\agendaTelefonica.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\agendaTelefonica\agendaTelefonica\bin\Debug\netcoreapp3.1\agendaTelefonica.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\agendaTelefonica\agendaTelefonica\bin\Debug\netcoreapp3.1\agendaTelefonica.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\agendaTelefonica\agendaTelefonica\bin\Debug\netcoreapp3.1\agendaTelefonica.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\agendaTelefonica\agendaTelefonica\bin\Debug\netcoreapp3.1\agendaTelefonica.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\agendaTelefonica\agendaTelefonica\obj\Debug\netcoreapp3.1\agendaTelefonica.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\agendaTelefonica\agendaTelefonica\obj\Debug\netcoreapp3.1\agendaTelefonica.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\agendaTelefonica\agendaTelefonica\obj\Debug\netcoreapp3.1\agendaTelefonica.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\agendaTelefonica\agendaTelefonica\obj\Debug\netcoreapp3.1\agendaTelefonica.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\agendaTelefonica\agendaTelefonica\obj\Debug\netcoreapp3.1\agendaTelefonica.pdb
