@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseCarro\claseCarro\bin\Debug\netcoreapp3.1\claseCarro.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseCarro\claseCarro\bin\Debug\netcoreapp3.1\claseCarro.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseCarro\claseCarro\bin\Debug\netcoreapp3.1\claseCarro.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseCarro\claseCarro\bin\Debug\netcoreapp3.1\claseCarro.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseCarro\claseCarro\bin\Debug\netcoreapp3.1\claseCarro.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseCarro\claseCarro\bin\Debug\netcoreapp3.1\claseCarro.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseCarro\claseCarro\obj\Debug\netcoreapp3.1\claseCarro.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseCarro\claseCarro\obj\Debug\netcoreapp3.1\claseCarro.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseCarro\claseCarro\obj\Debug\netcoreapp3.1\claseCarro.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseCarro\claseCarro\obj\Debug\netcoreapp3.1\claseCarro.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseCarro\claseCarro\obj\Debug\netcoreapp3.1\claseCarro.pdb

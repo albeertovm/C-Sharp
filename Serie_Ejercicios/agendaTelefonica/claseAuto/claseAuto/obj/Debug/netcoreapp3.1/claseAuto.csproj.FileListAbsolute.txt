@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseAuto\claseAuto\bin\Debug\netcoreapp3.1\claseAuto.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseAuto\claseAuto\bin\Debug\netcoreapp3.1\claseAuto.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseAuto\claseAuto\bin\Debug\netcoreapp3.1\claseAuto.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseAuto\claseAuto\bin\Debug\netcoreapp3.1\claseAuto.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseAuto\claseAuto\bin\Debug\netcoreapp3.1\claseAuto.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseAuto\claseAuto\bin\Debug\netcoreapp3.1\claseAuto.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseAuto\claseAuto\obj\Debug\netcoreapp3.1\claseAuto.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseAuto\claseAuto\obj\Debug\netcoreapp3.1\claseAuto.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseAuto\claseAuto\obj\Debug\netcoreapp3.1\claseAuto.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseAuto\claseAuto\obj\Debug\netcoreapp3.1\claseAuto.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\claseAuto\claseAuto\obj\Debug\netcoreapp3.1\claseAuto.pdb
