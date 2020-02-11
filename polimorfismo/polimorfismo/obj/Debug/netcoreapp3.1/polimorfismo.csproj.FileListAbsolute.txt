@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\polimorfismo\polimorfismo\bin\Debug\netcoreapp3.1\polimorfismo.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\polimorfismo\polimorfismo\bin\Debug\netcoreapp3.1\polimorfismo.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\polimorfismo\polimorfismo\bin\Debug\netcoreapp3.1\polimorfismo.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\polimorfismo\polimorfismo\bin\Debug\netcoreapp3.1\polimorfismo.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\polimorfismo\polimorfismo\bin\Debug\netcoreapp3.1\polimorfismo.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\polimorfismo\polimorfismo\bin\Debug\netcoreapp3.1\polimorfismo.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\polimorfismo\polimorfismo\obj\Debug\netcoreapp3.1\polimorfismo.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\polimorfismo\polimorfismo\obj\Debug\netcoreapp3.1\polimorfismo.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\polimorfismo\polimorfismo\obj\Debug\netcoreapp3.1\polimorfismo.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\polimorfismo\polimorfismo\obj\Debug\netcoreapp3.1\polimorfismo.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\polimorfismo\polimorfismo\obj\Debug\netcoreapp3.1\polimorfismo.pdb
