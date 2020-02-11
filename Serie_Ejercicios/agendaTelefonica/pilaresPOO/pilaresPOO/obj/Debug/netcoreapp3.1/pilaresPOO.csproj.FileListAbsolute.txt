@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\pilaresPOO\pilaresPOO\obj\Debug\netcoreapp3.1\pilaresPOO.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\pilaresPOO\pilaresPOO\obj\Debug\netcoreapp3.1\pilaresPOO.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\pilaresPOO\pilaresPOO\obj\Debug\netcoreapp3.1\pilaresPOO.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\pilaresPOO\pilaresPOO\bin\Debug\netcoreapp3.1\pilaresPOO.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\pilaresPOO\pilaresPOO\bin\Debug\netcoreapp3.1\pilaresPOO.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\pilaresPOO\pilaresPOO\bin\Debug\netcoreapp3.1\pilaresPOO.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\pilaresPOO\pilaresPOO\bin\Debug\netcoreapp3.1\pilaresPOO.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\pilaresPOO\pilaresPOO\bin\Debug\netcoreapp3.1\pilaresPOO.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\pilaresPOO\pilaresPOO\bin\Debug\netcoreapp3.1\pilaresPOO.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\pilaresPOO\pilaresPOO\obj\Debug\netcoreapp3.1\pilaresPOO.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\pilaresPOO\pilaresPOO\obj\Debug\netcoreapp3.1\pilaresPOO.pdb

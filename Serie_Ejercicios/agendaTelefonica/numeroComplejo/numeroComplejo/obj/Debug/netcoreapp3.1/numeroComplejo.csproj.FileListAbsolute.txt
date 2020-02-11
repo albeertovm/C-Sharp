@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\numeroComplejo\numeroComplejo\bin\Debug\netcoreapp3.1\numeroComplejo.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\numeroComplejo\numeroComplejo\bin\Debug\netcoreapp3.1\numeroComplejo.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\numeroComplejo\numeroComplejo\bin\Debug\netcoreapp3.1\numeroComplejo.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\numeroComplejo\numeroComplejo\bin\Debug\netcoreapp3.1\numeroComplejo.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\numeroComplejo\numeroComplejo\bin\Debug\netcoreapp3.1\numeroComplejo.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\numeroComplejo\numeroComplejo\bin\Debug\netcoreapp3.1\numeroComplejo.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\numeroComplejo\numeroComplejo\obj\Debug\netcoreapp3.1\numeroComplejo.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\numeroComplejo\numeroComplejo\obj\Debug\netcoreapp3.1\numeroComplejo.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\numeroComplejo\numeroComplejo\obj\Debug\netcoreapp3.1\numeroComplejo.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\numeroComplejo\numeroComplejo\obj\Debug\netcoreapp3.1\numeroComplejo.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\numeroComplejo\numeroComplejo\obj\Debug\netcoreapp3.1\numeroComplejo.pdb
