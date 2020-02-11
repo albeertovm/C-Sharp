@@ -1,0 +1,10 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fibonacci\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fibonacci\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fibonacci\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fibonacci\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fibonacci\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fibonacci\fibonacci\bin\Debug\netcoreapp3.1\fibonacci.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fibonacci\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fibonacci\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fibonacci\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fibonacci\fibonacci\obj\Debug\netcoreapp3.1\fibonacci.pdb

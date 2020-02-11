@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fVocal\fVocal\bin\Debug\netcoreapp3.1\fVocal.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fVocal\fVocal\bin\Debug\netcoreapp3.1\fVocal.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fVocal\fVocal\bin\Debug\netcoreapp3.1\fVocal.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fVocal\fVocal\bin\Debug\netcoreapp3.1\fVocal.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fVocal\fVocal\bin\Debug\netcoreapp3.1\fVocal.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fVocal\fVocal\bin\Debug\netcoreapp3.1\fVocal.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fVocal\fVocal\obj\Debug\netcoreapp3.1\fVocal.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fVocal\fVocal\obj\Debug\netcoreapp3.1\fVocal.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fVocal\fVocal\obj\Debug\netcoreapp3.1\fVocal.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fVocal\fVocal\obj\Debug\netcoreapp3.1\fVocal.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\fVocal\fVocal\obj\Debug\netcoreapp3.1\fVocal.pdb

@@ -1,0 +1,11 @@
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\interfaz\interfaz\bin\Debug\netcoreapp3.1\interfaz.exe
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\interfaz\interfaz\bin\Debug\netcoreapp3.1\interfaz.deps.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\interfaz\interfaz\bin\Debug\netcoreapp3.1\interfaz.runtimeconfig.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\interfaz\interfaz\bin\Debug\netcoreapp3.1\interfaz.runtimeconfig.dev.json
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\interfaz\interfaz\bin\Debug\netcoreapp3.1\interfaz.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\interfaz\interfaz\bin\Debug\netcoreapp3.1\interfaz.pdb
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\interfaz\interfaz\obj\Debug\netcoreapp3.1\interfaz.csprojAssemblyReference.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\interfaz\interfaz\obj\Debug\netcoreapp3.1\interfaz.AssemblyInfoInputs.cache
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\interfaz\interfaz\obj\Debug\netcoreapp3.1\interfaz.AssemblyInfo.cs
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\interfaz\interfaz\obj\Debug\netcoreapp3.1\interfaz.dll
+C:\Users\AValv\Desktop\C#\Serie de ejercicios\interfaz\interfaz\obj\Debug\netcoreapp3.1\interfaz.pdb
