@@ -24,7 +24,7 @@ namespace Consola
                     Comandos.MuestraDirectorio(directorioActual, historial);
                 }
                 else if (argumentos[0] == "dir")                            /*En caso de que se haya ingresado la cadena dir y más texto, 
-                                                                            la segunda cadena se toma como argumetno de directorio*/
+                                                                            la segunda cadena se toma como argumento de directorio*/
                 {
                     Comandos.MuestraDirectorio(argumentos[1], historial);            //Se envía como argumento la segunda subcadena
                 }
@@ -32,7 +32,7 @@ namespace Consola
                 {
                     throw new ChangeDirectoryException();
                 }
-                else if (argumentos[0] == "cd" && argumentos[1] == "..")        //verifica que sólo se ingrese cd .. para cambair al directorio padre
+                else if (argumentos[0] == "cd" && argumentos[1] == "..")        //verifica que sólo se ingrese "cd .." para cambiar al directorio padre
                 {
                     string directorioPadre = Directory.GetParent(directorioActual).FullName;    //Obtiene el directorio padre
                     Comandos.CambiaDirectorio(directorioPadre , directorioActual, historial);

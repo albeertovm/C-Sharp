@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AValv\\Desktop\\C#\\Tarea4\\Consola\\Consola\\Consola.csproj",
+      "projectUniqueName": "C:\\Users\\AValv\\Desktop\\C#\\Tarea4\\Consola\\Consola.csproj",
       "projectName": "Consola",
-      "projectPath": "C:\\Users\\AValv\\Desktop\\C#\\Tarea4\\Consola\\Consola\\Consola.csproj",
+      "projectPath": "C:\\Users\\AValv\\Desktop\\C#\\Tarea4\\Consola\\Consola.csproj",
       "packagesPath": "C:\\Users\\AValv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AValv\\Desktop\\C#\\Tarea4\\Consola\\Consola\\obj\\",
+      "outputPath": "C:\\Users\\AValv\\Desktop\\C#\\Tarea4\\Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AValv\\AppData\\Roaming\\NuGet\\NuGet.Config",
